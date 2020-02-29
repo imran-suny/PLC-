@@ -1,2 +1,2 @@
-# PLC-
+# PLC
 Ladder Logic Programming
